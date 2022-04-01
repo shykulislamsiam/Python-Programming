@@ -2,7 +2,7 @@
 """
 Created on Fri Apr  1 20:40:05 2022
 
-@author: shyku
+@author: shykul
 """
 
 number1 = input("Please type an integer and press enter: ")
