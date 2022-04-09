@@ -2,7 +2,7 @@
 """
 Created on Fri Apr  8 23:51:30 2022
 
-@author: shyku
+@author: shykul
 """
 def average_numbers(n):
     return sum(n)/len(n)
