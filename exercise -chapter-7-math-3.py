@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Spyder Editor
-
-This is a temporary script file.
+Created on Fri Apr  8 23:51:30 2022
+@author: shykul
 """
 def mult_num(n=1):
     m = 1
