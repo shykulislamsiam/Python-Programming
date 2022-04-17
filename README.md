@@ -1,2 +1,2 @@
 # Python-Programming
-In this repository i have uploaded some of my basic python program
+In this repository i have uploaded the solution of Tamim Shahriar Subeen's Python Book Part-01
