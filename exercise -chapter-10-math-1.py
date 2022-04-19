@@ -2,7 +2,7 @@
 """
 Created on Tue Apr 19 21:44:25 2022
 
-@author: shyku
+@author: shykul
 """
 
 start = int (input("Enter the starting range:"))
